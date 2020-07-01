@@ -1,0 +1,1 @@
+<resources><attr format="reference" name="barcode_camera_overlay_color" /><attr format="reference" name="barcode_camera_overlay_stroke_color" /><string name="app_name">scanbot-sdk-ui-barcode</string></resources>

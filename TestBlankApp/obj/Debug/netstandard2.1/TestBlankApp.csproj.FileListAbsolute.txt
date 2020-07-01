@@ -1,0 +1,13 @@
+C:\Scanbot\TestBlankApp\TestBlankApp\bin\Debug\netstandard2.1\TestBlankApp.deps.json
+C:\Scanbot\TestBlankApp\TestBlankApp\bin\Debug\netstandard2.1\TestBlankApp.dll
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\TestBlankApp.csprojAssemblyReference.cache
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\TestBlankApp.AssemblyInfoInputs.cache
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\TestBlankApp.AssemblyInfo.cs
+C:\Scanbot\TestBlankApp\TestBlankApp\bin\Debug\netstandard2.1\ref\TestBlankApp.dll
+C:\Scanbot\TestBlankApp\TestBlankApp\bin\Debug\netstandard2.1\TestBlankApp.pdb
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\TestBlankApp.dll
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\ref\TestBlankApp.dll
+C:\Scanbot\TestBlankApp\TestBlankApp\obj\Debug\netstandard2.1\TestBlankApp.pdb
