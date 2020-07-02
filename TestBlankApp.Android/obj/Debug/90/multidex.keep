@@ -74,8 +74,8 @@ kotlin/MathKt__BigIntegersKt.class
 android/support/multidex/MultiDexExtractor$1.class
 kotlin/text/StringsKt___StringsKt$windowedSequence$2.class
 kotlin/coroutines/experimental/migration/CoroutinesMigrationKt.class
-io/reactivex/subjects/BehaviorSubject.class
 io/scanbot/sdk/barcode/BarcodeAutoSnappingController$AutoSnappingCallback.class
+io/reactivex/subjects/BehaviorSubject.class
 kotlin/text/CharDirectionality$Companion.class
 kotlin/reflect/KClass$DefaultImpls.class
 android/support/v7/graphics/drawable/DrawerArrowDrawable.class
@@ -85,8 +85,8 @@ io/reactivex/annotations/SchedulerSupport.class
 android/support/transition/ViewGroupUtils.class
 io/scanbot/sdk/barcode/DefaultScanbotBarcodeDetector$detectFromJpeg$1.class
 android/support/design/widget/VisibilityAwareImageButton.class
-kotlin/jvm/functions/Function10.class
 io/scanbot/sdk/ui/view/barcode/BarcodeCameraPresenter$resume$3.class
+kotlin/jvm/functions/Function10.class
 kotlin/io/OnErrorAction.class
 kotlin/collections/CollectionsKt__ReversedViewsKt.class
 android/support/v4/text/PrecomputedTextCompat$Params$Builder.class
@@ -102,8 +102,8 @@ kotlin/jvm/internal/ArrayLongIterator.class
 kotlin/collections/UIntIterator.class
 android/support/v7/widget/ViewBoundsCheck$Callback.class
 kotlin/comparisons/ComparisonsKt___ComparisonsKt.class
-kotlin/coroutines/experimental/ContinuationInterceptor.class
 io/scanbot/sdk/barcode/StubScanbotBarcodeDetector.class
+kotlin/coroutines/experimental/ContinuationInterceptor.class
 android/support/v7/widget/Toolbar$2.class
 android/support/v7/view/menu/MenuBuilder$ItemInvoker.class
 androidx/browser/browseractions/BrowserActionsIntent$BrowserActionsFallDialogListener.class
@@ -336,8 +336,8 @@ kotlin/text/CharsetsKt.class
 kotlin/coroutines/intrinsics/IntrinsicsKt__IntrinsicsKt.class
 android/support/multidex/MultiDex$V19.class
 android/support/annotation/FontRes.class
-kotlin/coroutines/jvm/internal/SuspendFunction.class
 io/scanbot/sdk/ui/utils/navigator/Nodes$FunctionalNode$FunctionalNodeBuilder.class
+kotlin/coroutines/jvm/internal/SuspendFunction.class
 android/support/annotation/IntDef.class
 kotlin/InitializedLazyImpl.class
 kotlin/text/StringsKt___StringsKt$asIterable$$inlined$Iterable$1.class
@@ -372,9 +372,9 @@ io/scanbot/sdk/ui/view/barcode/BarcodeCameraPresenter.class
 androidx/versionedparcelable/VersionedParcelize.class
 android/support/design/widget/AppBarLayout$BaseOnOffsetChangedListener.class
 kotlin/collections/AbstractMap$toString$1.class
-kotlin/text/CharDirectionality$Companion$directionalityMap$2.class
 io/scanbot/sdk/barcode/BarcodeDetectorFrameHandler.class
 io/scanbot/sdk/barcode/entity/ResultPoint.class
+kotlin/text/CharDirectionality$Companion$directionalityMap$2.class
 android/support/v4/widget/ResourceCursorAdapter.class
 android/support/v4/provider/SelfDestructiveThread$ReplyCallback.class
 kotlin/properties/ReadWriteProperty.class
@@ -504,9 +504,9 @@ kotlin/properties/ObservableProperty.class
 android/support/v7/widget/AppCompatTextHelper.class
 io/scanbot/sdk/ui/di/SDKUISingleton.class
 android/support/v4/app/TaskStackBuilder.class
+io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$BarcodeCameraNavigator$Companion.class
 kotlin/ranges/ULongProgression.class
 kotlin/random/RandomKt.class
-io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$BarcodeCameraNavigator$Companion.class
 kotlin/TypeAliasesKt.class
 android/support/v7/app/ActionBar$TabListener.class
 kotlin/collections/Grouping.class
@@ -574,8 +574,8 @@ android/support/v4/app/NotificationCompat$StreamType.class
 io/scanbot/sdk/barcode_scanner/ScanbotBarcodeScannerSDK$Companion.class
 android/support/v4/media/VolumeProviderCompat$ControlType.class
 android/support/design/widget/AppBarLayout$ScrollingViewBehavior.class
-kotlin/jvm/internal/CharSpreadBuilder.class
 io/scanbot/sdk/barcode/BarcodeAutoSnappingController$PictureCallbackImpl.class
+kotlin/jvm/internal/CharSpreadBuilder.class
 android/support/v4/media/session/MediaSessionCompat$3.class
 kotlin/io/FilesKt.class
 kotlin/coroutines/experimental/CoroutinesKt.class
@@ -675,8 +675,8 @@ dagger/multibindings/StringKey.class
 android/support/design/widget/BottomSheetBehavior$SavedState.class
 kotlin/coroutines/experimental/migration/ExperimentalSuspendFunction1Migration.class
 kotlin/jvm/functions/Function22.class
-kotlin/text/MatcherMatchResult$groups$1$iterator$1.class
 net/doo/snap/camera/ScanbotCameraView.class
+kotlin/text/MatcherMatchResult$groups$1$iterator$1.class
 kotlin/reflect/KDeclarationContainer.class
 android/support/v4/view/LayoutInflaterCompat.class
 javax/inject/Singleton.class
@@ -787,8 +787,8 @@ kotlin/sequences/SequencesKt___SequencesKt$minus$3$iterator$1.class
 io/scanbot/sdk/ui/view/barcode/configuration/BarcodeScannerConfiguration$Creator.class
 kotlin/io/FileTreeWalk$FileTreeWalkIterator$WhenMappings.class
 android/support/v4/app/FragmentManager.class
-kotlin/coroutines/experimental/ContinuationInterceptor$Key.class
 io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment.class
+kotlin/coroutines/experimental/ContinuationInterceptor$Key.class
 kotlin/jvm/JvmSuppressWildcards.class
 kotlin/sequences/SequencesKt___SequencesKt$filterIndexed$1.class
 android/support/annotation/AttrRes.class
@@ -843,9 +843,9 @@ android/support/v4/media/MediaBrowserCompat$SubscriptionCallback.class
 kotlin/io/FileTreeWalk$WalkState.class
 android/support/v7/widget/ToolbarWidgetWrapper.class
 kotlin/text/StringsKt__StringsKt$rangesDelimitedBy$2.class
+io/scanbot/sdk/ui/view/barcode/configuration/BarcodeImageGenerationType.class
 kotlin/KotlinVersion$Companion.class
 kotlin/jvm/internal/markers/KMutableSet.class
-io/scanbot/sdk/ui/view/barcode/configuration/BarcodeImageGenerationType.class
 android/support/v7/widget/RecyclerView$6.class
 kotlin/jvm/Transient.class
 io/scanbot/sdk/barcode/BarcodeAutoSnappingController$AutoSnappingCallback$Companion.class
@@ -991,8 +991,8 @@ kotlin/collections/UByteIterator.class
 android/support/v7/widget/FastScroller.class
 kotlin/KotlinVersion.class
 android/support/v4/media/session/MediaSessionCompat$2.class
-kotlin/sequences/SequencesKt__SequencesKt$flatten$1.class
 io/scanbot/sdk/ui/view/barcode/IBarcodeCameraView.class
+kotlin/sequences/SequencesKt__SequencesKt$flatten$1.class
 kotlin/UseExperimental.class
 android/support/v7/view/menu/BaseMenuPresenter.class
 android/support/v7/widget/LinearLayoutCompat$DividerMode.class
@@ -1032,8 +1032,8 @@ kotlin/sequences/SubSequence$iterator$1.class
 kotlin/jvm/functions/Function7.class
 android/support/v7/appcompat/R$id.class
 kotlin/comparisons/ComparisonsKt__ComparisonsKt$nullsFirst$1.class
-kotlin/UByteArrayKt.class
 io/scanbot/sdk/ui/utils/navigator/Nodes$key$2.class
+kotlin/UByteArrayKt.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserImplBase.class
 kotlin/io/FileTreeWalk$FileTreeWalkIterator$TopDownDirectoryState.class
 kotlin/coroutines/experimental/CoroutineContext$plus$1.class
@@ -1323,8 +1323,8 @@ android/support/design/widget/BaseTransientBottomBar$ContentViewCallback.class
 kotlin/coroutines/SafeContinuation$Companion.class
 org/intellij/lang/annotations/MagicConstant.class
 kotlin/collections/SlidingWindowKt$windowedSequence$$inlined$Sequence$1.class
-kotlin/sequences/FilteringSequence$iterator$1.class
 io/scanbot/sdk/ui/utils/navigator/Nodes$FunctionalNode$Companion.class
+kotlin/sequences/FilteringSequence$iterator$1.class
 kotlin/coroutines/intrinsics/IntrinsicsKt__IntrinsicsJvmKt.class
 kotlin/coroutines/ContinuationKt$Continuation$1.class
 android/support/v7/widget/RecyclerView$AdapterDataObservable.class
@@ -1341,8 +1341,8 @@ android/support/v4/media/session/PlaybackStateCompat$ShuffleMode.class
 kotlin/ranges/ClosedDoubleRange.class
 kotlin/coroutines/experimental/Continuation.class
 android/support/v4/media/MediaBrowserCompat$ServiceBinderWrapper.class
-kotlin/UByte.class
 io/scanbot/sap/SdkFeature.class
+kotlin/UByte.class
 kotlin/coroutines/experimental/SequenceBuilderKt__SequenceBuilderKt.class
 android/support/design/R$attr.class
 io/scanbot/sdk/ui/view/barcode/BarcodeCameraView$initCameraView$1.class
@@ -1384,8 +1384,8 @@ android/support/v4/media/RatingCompat$StarStyle.class
 android/support/design/widget/FloatingActionButton.class
 kotlin/ExceptionsKt__ExceptionsKt.class
 kotlin/StandardKt__SynchronizedKt.class
-kotlin/random/FallbackThreadLocalRandom$implStorage$1.class
 io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$BarcodeCameraNavigator$Companion$barcodeScanned$1.class
+kotlin/random/FallbackThreadLocalRandom$implStorage$1.class
 kotlin/Experimental.class
 kotlin/collections/ArraysKt___ArraysKt$asIterable$$inlined$Iterable$8.class
 android/support/v4/util/Pools$SimplePool.class
@@ -1418,9 +1418,9 @@ android/support/v4/content/res/ResourcesCompat$FontCallback.class
 android/support/v4/app/ActionBarDrawerToggle$Delegate.class
 io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$applyConfigurationValue$14.class
 android/support/v7/widget/RecyclerView$RecycledViewPool.class
+io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$BarcodeCameraNavigator$Companion$requestCameraPermission$1.class
 kotlin/UninitializedPropertyAccessException.class
 kotlin/sequences/GeneratorSequence$iterator$1.class
-io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$BarcodeCameraNavigator$Companion$requestCameraPermission$1.class
 kotlin/ReplaceWith.class
 android/support/design/bottomappbar/BottomAppBar$7.class
 android/support/v7/widget/ActionMenuPresenter.class
@@ -1499,8 +1499,8 @@ kotlin/sequences/SequencesKt___SequencesKt$sorted$1.class
 android/support/v4/widget/DrawerLayout$DrawerListener.class
 android/support/v4/graphics/drawable/IconCompat.class
 org/jetbrains/annotations/NotNull.class
-android/support/design/internal/BottomNavigationMenuView.class
 io/scanbot/sdk/ui/di/HasComponent.class
+android/support/design/internal/BottomNavigationMenuView.class
 io/scanbot/sdk/camera/FrameHandlerResult$Failure.class
 kotlin/annotation/MustBeDocumented.class
 android/support/v4/provider/SelfDestructiveThread$1.class
@@ -1524,8 +1524,8 @@ android/support/v7/app/ActionBar$OnMenuVisibilityListener.class
 kotlin/sequences/SubSequence.class
 dagger/Subcomponent.class
 io/scanbot/sdk/ui/view/barcode/BarcodeCameraView$1.class
-kotlin/sequences/DropSequence.class
 io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$applyConfigurationValue$13.class
+kotlin/sequences/DropSequence.class
 android/support/transition/Slide$CalculateSlideHorizontal.class
 android/support/v7/widget/DecorToolbar.class
 io/reactivex/annotations/BackpressureSupport.class
@@ -1548,8 +1548,8 @@ android/support/design/widget/FloatingActionButton$OnVisibilityChangedListener.c
 android/support/v4/widget/CursorAdapter.class
 android/support/v7/widget/RecyclerView$ItemAnimator$ItemAnimatorListener.class
 kotlin/coroutines/experimental/migration/ExperimentalContinuationInterceptorMigration.class
-kotlin/ranges/CharProgressionIterator.class
 io/scanbot/sdk/ui/utils/navigator/NodeNavigator.class
+kotlin/ranges/CharProgressionIterator.class
 kotlin/collections/AbstractMutableCollection.class
 kotlin/collections/ReversedList.class
 kotlin/math/MathKt__MathJVMKt.class
@@ -1590,8 +1590,8 @@ android/support/v4/media/AudioAttributesCompat$AttributeContentType.class
 android/support/customtabs/ICustomTabsService$Stub.class
 android/support/v7/widget/RecyclerViewAccessibilityDelegate.class
 kotlin/ExperimentalMultiplatform.class
-kotlin/collections/ArraysKt___ArraysKt$asIterable$$inlined$Iterable$4.class
 io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$applyConfigurationValue$9.class
+kotlin/collections/ArraysKt___ArraysKt$asIterable$$inlined$Iterable$4.class
 android/support/v4/content/res/FontResourcesParserCompat$FamilyResourceEntry.class
 kotlin/text/MatchResult.class
 io/scanbot/sdk/ui/view/interactor/CheckCameraPermissionUseCase.class
@@ -1621,8 +1621,8 @@ kotlin/collections/MovingSubList.class
 kotlin/sequences/SequencesKt___SequencesKt$minus$4$iterator$1.class
 kotlin/text/Regex$fromInt$$inlined$apply$lambda$1.class
 android/support/v4/widget/CircularProgressDrawable$2.class
-kotlin/LazyKt__LazyKt.class
 io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$BarcodeCameraNavigator$Companion$activateCameraPermission$1.class
+kotlin/LazyKt__LazyKt.class
 android/support/transition/Slide.class
 kotlin/annotation/Repeatable.class
 android/support/v4/content/CursorLoader.class
@@ -1652,9 +1652,9 @@ kotlin/sequences/FilteringSequence.class
 kotlin/collections/CollectionsKt__CollectionsJVMKt.class
 android/support/annotation/StyleableRes.class
 kotlin/collections/SetsKt__SetsKt.class
+io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$applyConfigurationValue$5.class
 kotlin/system/TimingKt.class
 kotlin/sequences/SequencesKt__SequenceBuilderKt.class
-io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$applyConfigurationValue$5.class
 kotlin/sequences/TakeWhileSequence.class
 kotlin/collections/ArraysKt___ArraysKt$asIterable$$inlined$Iterable$6.class
 kotlin/reflect/KVisibility.class
@@ -1764,6 +1764,6 @@ io/scanbot/sdk/ui/view/barcode/BaseBarcodeCameraFragment$applyConfigurationValue
 android/support/v7/widget/ViewInfoStore.class
 io/scanbot/sdk/barcode/DefaultScanbotBarcodeDetector.class
 android/support/design/widget/AppBarLayout$LayoutParams$ScrollFlags.class
-kotlin/UIntKt.class
 io/scanbot/sdk/ui/utils/navigator/Nodes$anyOfTypes$1.class
+kotlin/UIntKt.class
 io/scanbot/sdk/core/barcode/jni/BuildConfig.class
